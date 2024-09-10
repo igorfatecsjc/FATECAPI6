@@ -57,46 +57,45 @@ Adicionar video e documentos nessa seção
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 1. Configuração Inicial e Desenvolvimento do Banco de Dadoso
+### Ferramentas Utilizadas
+ - [ ] Escolher ferramentas de gerenciamento de banco de dados (MySQL, SQLite).
+### Consultas SQL
+- [ ] Levantar códigos SQL existentes e avaliar desempenho.
+- [ ] Escrever e testar consultas SQL para manipulação e recuperação de dados.
+### Estudar Python
+- [ ] Estudar fundamentos de Python.
+- [ ] Escrever código Python para interagir com o banco de dados.
+- [ ] Testar funcionalidades básicas do programa.
+### Documentação
+- [ ] Criar documentação inicial da configuração e desenvolvimento do banco de dados.
+- [ ] Configurar repositório no GitHub e fazer o primeiro commit.
+- [ ] Preparar e apresentar os resultados da Sprint 1.
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+### Integração com BI
+- [ ] Configurar a integração do banco de dados com a ferramenta de BI.
+- [ ] Desenvolver painéis e relatórios básicos.
+### Cálculos de Produtividade
+- [ ] Definir métricas de produtividade.
+- [ ] Implementar fórmulas e cálculos no banco de dados ou no programa.
+- [ ] Testar e validar cálculos com dados reais.
+### Documentação
+- [ ] Atualizar a documentação com a integração e cálculos de produtividade.
+- [ ] Escrever um relatório sobre a integração com BI e cálculos de produtividade.
+- [ ] Atualizar o repositório no GitHub com as novas funcionalidades.
+- [ ] Preparar e apresentar os resultados da Sprint 2.
       
 ## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+### Gráficos de Visualização da Empresa
+- [ ] Identificar tipos de gráficos e visualizações necessários.
+- [ ] Desenvolver gráficos interativos e dashboards.
+- [ ] Integrar visualizações com a ferramenta de BI ou diretamente no programa.
+### Documentação
+- [ ] Finalizar a documentação com as visualizações avançadas.
+- [ ] Escrever um relatório final sobre as visualizações e análises realizadas.
+- [ ] Preparar e apresentar os resultados da Sprint 3.
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
 
 
   
