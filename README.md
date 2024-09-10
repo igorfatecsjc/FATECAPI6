@@ -1,8 +1,8 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (6º semestre - API) - Integração de rotas e clientes
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+<p align="center">
+ <img src="https://github.com/Osslz/API/blob/main/Sprint%201/image.png"/>
+</p>
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
