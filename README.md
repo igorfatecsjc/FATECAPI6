@@ -72,7 +72,7 @@ Adicionar video e documentos nessa seção
 - [ ] Configurar repositório no GitHub e fazer o primeiro commit.
 - [ ] Preparar e apresentar os resultados da Sprint 1.
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 2. Integração e Análise de Dados
 ### Integração com BI
 - [ ] Configurar a integração do banco de dados com a ferramenta de BI.
 - [ ] Desenvolver painéis e relatórios básicos.
@@ -86,7 +86,7 @@ Adicionar video e documentos nessa seção
 - [ ] Atualizar o repositório no GitHub com as novas funcionalidades.
 - [ ] Preparar e apresentar os resultados da Sprint 2.
       
-## Sprint 3 . Implementação
+## Sprint 3 . Visualização Avançada
 ### Gráficos de Visualização da Empresa
 - [ ] Identificar tipos de gráficos e visualizações necessários.
 - [ ] Desenvolver gráficos interativos e dashboards.
