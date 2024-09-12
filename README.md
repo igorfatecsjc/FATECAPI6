@@ -55,45 +55,72 @@ Adicionar video e documentos nessa seção
 
 
 # Backlog do produto
+### Sprint 1. Criação e Modelagem do Banco de Dados
+**- Objetivo: Estabelecer a base de dados relacional para armazenar todas as informações necessárias.**
 
-## Sprint 1. Configuração Inicial e Desenvolvimento do Banco de Dadoso
-### Ferramentas Utilizadas
- - [ ] Escolher ferramentas de gerenciamento de banco de dados (MySQL, SQLite).
-### Consultas SQL
-- [ ] Levantar códigos SQL existentes e avaliar desempenho.
-- [ ] Escrever e testar consultas SQL para manipulação e recuperação de dados.
-### Estudar Python
-- [ ] Estudar fundamentos de Python.
-- [ ] Escrever código Python para interagir com o banco de dados.
-- [ ] Testar funcionalidades básicas do programa.
-### Documentação
-- [ ] Criar documentação inicial da configuração e desenvolvimento do banco de dados.
-- [ ] Configurar repositório no GitHub e fazer o primeiro commit.
-- [ ] Preparar e apresentar os resultados da Sprint 1.
+ - [ ] Definição requisitos do banco de dados:**
+    
+    - Identificar todas as tabelas necessárias (veículos, rotas, custos, etc.)
+    -  Definir os relacionamentos entre as tabelas.
 
-## Sprint 2. Integração e Análise de Dados
-### Integração com BI
-- [ ] Configurar a integração do banco de dados com a ferramenta de BI.
-- [ ] Desenvolver painéis e relatórios básicos.
-### Cálculos de Produtividade
-- [ ] Definir métricas de produtividade.
-- [ ] Implementar fórmulas e cálculos no banco de dados ou no programa.
-- [ ] Testar e validar cálculos com dados reais.
-### Documentação
-- [ ] Atualizar a documentação com a integração e cálculos de produtividade.
-- [ ] Escrever um relatório sobre a integração com BI e cálculos de produtividade.
-- [ ] Atualizar o repositório no GitHub com as novas funcionalidades.
-- [ ] Preparar e apresentar os resultados da Sprint 2.
-      
-## Sprint 3 . Visualização Avançada
-### Gráficos de Visualização da Empresa
-- [ ] Identificar tipos de gráficos e visualizações necessários.
-- [ ] Desenvolver gráficos interativos e dashboards.
-- [ ] Integrar visualizações com a ferramenta de BI ou diretamente no programa.
-### Documentação
-- [ ] Finalizar a documentação com as visualizações avançadas.
-- [ ] Escrever um relatório final sobre as visualizações e análises realizadas.
-- [ ] Preparar e apresentar os resultados da Sprint 3.
+ - [ ] Criação o banco de dados em MySQL:
+       
+    - Configurar o servidor MySQL.
+    - Criar tabelas e definir chaves primárias e estrangeiras.
+
+ - [ ] Inserção dados iniciais:
+    
+    - Inserir dados de exemplo para testes.
+
+ - [ ] Configurar ambiente de BI:
+   
+    - integraar a ferramenta de BI.
+    - Configurar a conexão com o banco de dados MySQL.
+
+
+### Sprint 2. Desenvolvimento do Visualizador de Indicadores em BI
+**- Objetivo :Criar as telas de BI para visualização dos indicadores de produtividade e custos.**
+
+ - [ ] Configurar ambiente de BI:
+
+    - Escolher a ferramenta de BI (Power BI, Tableau, etc.).
+    - Configurar a conexão com o banco de dados MySQL.
+    
+ - [ ] Criar tela de produtividade dos veículos:
+    
+    - Definir os KPIs (Key Performance Indicators) para produtividade.
+    - Criar gráficos e tabelas para visualização.
+    
+ - [ ] Criar tela de evolução dos custos por km:
+    
+    - Definir os KPIs para custos por km.
+    - Criar gráficos e tabelas para visualização.
+    
+ - [ ] Criar tela de evolução dos custos por unidade transportada:
+    
+    - Definir os KPIs para custos por unidade transportada.
+    - Criar gráficos e tabelas para visualização.
+
+### Sprint 3. Integração e Testes Finais
+- Objetivo: Garantir que todas as partes do sistema funcionem bem juntas e realizar ajustes finais.
+
+ - [ ] Integração do banco de dados com o visualizador de BI:
+    
+    - Verificar a conexão e a atualização dos dados em tempo real.
+    
+ - [ ] Testes de usabilidade:
+    
+    - Realizar testes com usuários para garantir que as telas de BI são intuitivas e funcionais.
+    
+ - [ ] Ajustes e otimizações:
+    
+    - Corrigir quaisquer bugs ou problemas encontrados durante os testes.
+    - Otimizar consultas SQL para melhorar a performance.
+    
+ - [ ] Documentação:
+   
+    - Documentar todo o processo de desenvolvimento e as funcionalidades do sistema.
+
       
 
 
