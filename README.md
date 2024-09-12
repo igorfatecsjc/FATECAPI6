@@ -80,12 +80,7 @@ Adicionar video e documentos nessa seção
 
 ### Sprint 2. Desenvolvimento do Visualizador de Indicadores em BI
 **- Objetivo :Criar as telas de BI para visualização dos indicadores de produtividade e custos.**
-
- - [ ] Configurar ambiente de BI:
-
-    - Escolher a ferramenta de BI (Power BI, Tableau, etc.).
-    - Configurar a conexão com o banco de dados MySQL.
-    
+  
  - [ ] Criar tela de produtividade dos veículos:
     
     - Definir os KPIs (Key Performance Indicators) para produtividade.
